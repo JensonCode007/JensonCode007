@@ -117,12 +117,12 @@ Interests:
 
 <p align="center">
 
-<a href="https://github.com/JensonCode007/YOUR_REPO_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JensonCode007&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/JensonCode007/YOUR_REPO_1](https://github.com/JensonCode007/Sentinel">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JensonCode007&repo=https://github.com/JensonCode007/Sentinel&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/JensonCode007/YOUR_REPO_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JensonCode007&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/JensonCode007/TheDocumentVault">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JensonCode007&repo=https://github.com/JensonCode007/TheDocumentVault&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/JensonCode007/YOUR_REPO_3">
