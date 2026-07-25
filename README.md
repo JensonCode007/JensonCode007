@@ -16,38 +16,42 @@
 ```yaml
 Name: Jenson Rajan
 Role: Backend Developer
-Currently Learning:
-  - Distributed Systems
-  - Cloud Engineering
+
+Currently Working On:
+  - Backend Development
+  - AI & ML Projects
+  - Full Stack Applications
+
 Languages:
   - Java
   - Python
   - C
+
 Interests:
-  - Backend Development
+  - Backend Engineering
   - Artificial Intelligence
   - Machine Learning
   - Open Source
   - Competitive Programming
 ```
 
-- 🔭 Currently building scalable backend applications
+- 🔭 Currently working on Backend Development
+- 🚀 Building cool and useful real-world projects
 - 🤖 Exploring AI & Machine Learning
-- ⚡ Love creating useful real-world projects
-- 🧠 Regularly solving problems on LeetCode
-- ☕ Java enthusiast with a soft spot for Python
+- 💻 Java enthusiast with a love for Python
+- 🧠 Solving coding challenges on LeetCode
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/jenson-t-rajan/" target="_blank">
+<a href="https://www.linkedin.com/in/jenson-t-rajan/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://medium.com/@jensonrajan321" target="_blank">
+<a href="https://medium.com/@jensonrajan321">
 <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
@@ -88,7 +92,7 @@ Interests:
 ### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,vercel,cloudflare,git,github"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,cloudflare,vercel,git,github"/>
 </p>
 
 ### 🤖 AI / ML
@@ -97,18 +101,28 @@ Interests:
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
 </p>
 
-### 🛠️ Tools
+### 🛠️ Tools & Others
 
 <p>
-<img src="https://skillicons.dev/icons?i=postman,figma,notion,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=figma,postman,notion,linux,vscode"/>
 </p>
 
 ---
 
-# 📅 GitHub Contributions
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JensonCode007&theme=tokyo-night&hide_border=true&area=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JensonCode007&theme=tokyonight&hide_border=true&show_icons=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JensonCode007&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=JensonCode007&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -117,12 +131,12 @@ Interests:
 
 <p align="center">
 
-<a href="https://github.com/JensonCode007/YOUR_REPO_1](https://github.com/JensonCode007/Sentinel">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JensonCode007&repo=https://github.com/JensonCode007/Sentinel&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/JensonCode007/YOUR_REPO_1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JensonCode007&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/JensonCode007/TheDocumentVault">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JensonCode007&repo=https://github.com/JensonCode007/TheDocumentVault&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/JensonCode007/YOUR_REPO_2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JensonCode007&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/JensonCode007/YOUR_REPO_3">
@@ -137,17 +151,7 @@ Interests:
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/JensonCode007/JensonCode007/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
-> **Note:** You'll need to enable a GitHub Action to generate the snake animation. If you don't set it up yet, simply remove this section for now.
-
----
-
-## ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -157,11 +161,11 @@ Interests:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=JensonCode007&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=JensonCode007&style=for-the-badge&color=0e75b6"/>
 
-### ⭐ Thanks for visiting!
+### ⭐ Thanks for stopping by!
 
-*"Code. Learn. Build. Repeat."*
+*"Code • Learn • Build • Repeat"*
 
 </div>
 
